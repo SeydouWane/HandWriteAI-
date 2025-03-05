@@ -22,5 +22,5 @@ HandWriteAI est une **application interactive de tableau blanc** permettant :
 ## 🛠 **Installation**
 ### 1️⃣ **Cloner le repo GitHub**
 ```sh
-git clone https://github.com/TonNomGit/HandWriteAI.git
+git clone https://github.com/SeydouWane/HandWriteAI.git
 cd HandWriteAI
